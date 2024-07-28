@@ -1,0 +1,8 @@
+Flask==3.0.3
+
+Werkzeug==3.0.3
+
+Flask-CORS==3.0.10  # If needed
+
+python-dotenv==0.20.0  # If using environment variables
+
