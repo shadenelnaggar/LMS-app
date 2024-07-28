@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "ISBN": 1111,
+            "Title": "Kite Runner",
+            "Author": "Khaled Hosseini",
+            "Quantity": 4
+        },
+        {
+            "ISBN": 1234,
+            "Title": "A Little Life",
+            "Author": "Hanya Yangihara",
+            "Quantity": 6
+        },
+        {
+            "ISBN": 7896,
+            "Title": "The Last Symbol",
+            "Author": "Dan Brown",
+            "Quantity": 1
+        }
+    ],
+    "borrowed_books": {
+        "1111": {
+            "Title": "Kite Runner",
+            "UserID": 1256
+        }
+    }
+}
